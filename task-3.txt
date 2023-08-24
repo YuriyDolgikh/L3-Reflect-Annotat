@@ -1,0 +1,3 @@
+firstName=Tom;lastName=Cruis;age=61;
+firstName=Keanu;lastName=Reeves;age=58;
+firstName=Bill;lastName=Gates;age=67;
